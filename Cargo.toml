@@ -1,5 +1,11 @@
 [package]
 name = "plato-tile-search"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 rust-version = "1.75"
+description = "Nearest-neighbor tile search with keyword overlap, domain matching, and composite ranking"
+license = "MIT"
+repository = "https://github.com/SuperInstance/plato-tile-search"
+readme = "README.md"
+
+[dependencies]
